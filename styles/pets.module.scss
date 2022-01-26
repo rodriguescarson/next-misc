@@ -1,0 +1,12 @@
+.product {
+  &__image-holder {
+    position: relative;
+    max-width: 100%;
+    height: 345px;
+    cursor: pointer;
+  }
+
+  &__image {
+    object-fit: cover;
+  }
+}
